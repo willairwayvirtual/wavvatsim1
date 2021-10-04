@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Numerics;
 
-namespace GameServer
+namespace wavvatsim1
 {
     class Client
     {

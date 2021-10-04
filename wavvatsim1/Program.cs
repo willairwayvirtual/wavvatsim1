@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace GameServer
+namespace wavvatsim1
 {
     class Program
     {
@@ -42,4 +42,3 @@ namespace GameServer
         }
     }
 }
-nfd
